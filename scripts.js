@@ -1,1 +1,1 @@
-object.onload = function(){alert("Teste, teste")};
+object.onload = function(){alert("Teste, teste, teste")};
